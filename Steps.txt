@@ -1,0 +1,9 @@
+Firstly python should be installed In your pc.
+
+After that you will have to open command prompt/Terminal in the project folder. 
+
+Then run this command 'pip install -r requirements.txt' (if using mac do pip3 instead of pip)
+
+then run the project using ('python app.py') in terminal.
+
+This will run the project in local computer and it will give the link which you can open in browser.
